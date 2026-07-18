@@ -119,44 +119,96 @@ motto: "Code is poetry — write it beautifully."
 
 ---
 
-<!-- Trophies Section -->
+<!-- Achievement Progress Section -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Milestones
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pal2004Subrata&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophy wall - auto-populates as you earn them -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pal2004Subrata&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<!-- Animated Journey Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&text=🚀%20Growing%20Every%20Day%20|%20Watch%20This%20Space!&fontSize=20&fontColor=ffffff&height=50&animation=blinking" width="80%" />
+
+<br/><br/>
+
+<!-- Milestone badges that animate -->
+![Commits](https://img.shields.io/badge/dynamic/json?label=Total%20Commits&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3APal2004Subrata&style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=git)
+&nbsp;
+![Repos](https://img.shields.io/badge/Public%20Repos-Pal2004Subrata-f093fb?style=for-the-badge&logo=github&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-<!-- Contribution Graph -->
+<!-- Skill Progress Bars -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## ⚡ Skill Proficiency
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pal2004Subrata/Pal2004Subrata/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pal2004Subrata/Pal2004Subrata/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pal2004Subrata/Pal2004Subrata/output/github-snake.svg" />
-</picture>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,cpp,c,tailwind,laravel,git,github,figma,postman,vscode&perline=9&theme=dark" />
+
+</div>
+
+<br/>
+
+```
+React / Next.js     ████████████████░░░░  80%  🔥 Strong
+Node.js / Express   ███████████████░░░░░  75%  💪 Solid
+MongoDB             █████████████░░░░░░░  65%  📈 Growing
+HTML / CSS          ████████████████████  95%  ⭐ Expert
+JavaScript          █████████████████░░░  85%  🚀 Advanced
+C / C++             ████████████░░░░░░░░  60%  🧠 Proficient
+Figma / UI Design   ██████████████░░░░░░  70%  🎨 Creative
+```
+
+---
+
+<!-- Contribution Activity Graph -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Subrata's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pal2004Subrata&bg_color=0d1117&color=a78bfa&line=764ba2&point=f093fb&area=true&hide_border=true&area_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- Top Contributed Repos -->
+<!-- Dev Journey / Roadmap -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔝 Top Contributed Repositories
+## 🗺️ My Developer Journey
 
 <div align="center">
 
-[![](https://github-contributor-stats.vercel.app/api?username=Pal2004Subrata&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/Pal2004Subrata)
+```mermaid
+timeline
+    title Subrata Pal — Dev Roadmap
+    section Foundation
+        Learned C & C++       : Algorithms & Logic
+        Discovered HTML & CSS : Front-End Basics
+    section Rising
+        JavaScript & React    : Dynamic UIs
+        Node.js & Express     : Backend APIs
+        MongoDB & MySQL       : Databases
+    section Now
+        MERN Full Stack       : Building Real Apps
+        Figma & UI/UX         : Design Thinking
+        Problem Solving       : DSA Practice
+    section Next
+        System Design         : Scalable Architecture
+        Cloud & DevOps        : Deploy Everywhere
+        Open Source           : Give Back
+```
 
 </div>
 
